@@ -1,1 +1,1 @@
-# randomjs
+https://cjhelloletsgo.github.io/randomjs/
